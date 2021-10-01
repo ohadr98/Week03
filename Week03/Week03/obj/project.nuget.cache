@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jPvoRLrYOBVkUMv9WmgnbHY0pbpUhXZgYOFzoKLktDAKFEGuWgq42NumKqz022FwowgJNbFYG5LYigpRUofhlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\אוהד\\source\\repos\\Week03\\Week03\\Week03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\אוהד\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
